@@ -1,0 +1,13 @@
+[
+    {
+        "num_nodes_features": 17,
+        "num_edges_features": 4,
+        "max_num_nodes": 9,
+        "max_num_edges": 36,
+        "latent_dimension": 80,
+        "num_layers_encoder": 5,
+        "num_layers_decoder": 3,
+        "growth_factor_encoder": 2,
+        "growth_factor_decoder": 1
+    }
+]

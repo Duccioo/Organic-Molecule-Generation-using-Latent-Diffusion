@@ -1,0 +1,1992 @@
+Molecule 5010 is not valid because:
+
+Molecule 5016 is not valid because:
+
+Molecule 5017 is not valid because:
+
+Molecule 5024 is not valid because:
+
+Molecule 5028 is not valid because:
+
+Molecule 5029 is not valid because:
+
+Molecule 5036 is not valid because:
+
+Molecule 5038 is not valid because:
+
+Molecule 5039 is not valid because:
+
+Molecule 5042 is not valid because:
+
+Molecule 5051 is not valid because:
+
+Molecule 5067 is not valid because:
+
+Molecule 5068 is not valid because:
+
+Molecule 5078 is not valid because:
+
+Molecule 5085 is not valid because:
+
+Molecule 5092 is not valid because:
+
+Molecule 5099 is not valid because:
+
+Molecule 5109 is not valid because:
+
+Molecule 5119 is not valid because:
+
+Molecule 5121 is not valid because:
+
+Molecule 5134 is not valid because:
+
+Molecule 5150 is not valid because:
+
+Molecule 5152 is not valid because:
+
+Molecule 5154 is not valid because:
+
+Molecule 5155 is not valid because:
+
+Molecule 5157 is not valid because:
+
+Molecule 5159 is not valid because:
+
+Molecule 5169 is not valid because:
+
+Molecule 5172 is not valid because:
+
+Molecule 5185 is not valid because:
+
+Molecule 5186 is not valid because:
+
+Molecule 5192 is not valid because:
+
+Molecule 5202 is not valid because:
+
+Molecule 5204 is not valid because:
+
+Molecule 5214 is not valid because:
+
+Molecule 5217 is not valid because:
+
+Molecule 5219 is not valid because:
+
+Molecule 5220 is not valid because:
+
+Molecule 5228 is not valid because:
+
+Molecule 5229 is not valid because:
+
+Molecule 5235 is not valid because:
+
+Molecule 5236 is not valid because:
+
+Molecule 5240 is not valid because:
+
+Molecule 5241 is not valid because:
+
+Molecule 5244 is not valid because:
+
+Molecule 5246 is not valid because:
+
+Molecule 5247 is not valid because:
+
+Molecule 5252 is not valid because:
+
+Molecule 5259 is not valid because:
+
+Molecule 5262 is not valid because:
+
+Molecule 5267 is not valid because:
+
+Molecule 5273 is not valid because:
+
+Molecule 5276 is not valid because:
+
+Molecule 5279 is not valid because:
+
+Molecule 5285 is not valid because:
+
+Molecule 5288 is not valid because:
+
+Molecule 5297 is not valid because:
+
+Molecule 5299 is not valid because:
+
+Molecule 5305 is not valid because:
+
+Molecule 5306 is not valid because:
+
+Molecule 5312 is not valid because:
+
+Molecule 5323 is not valid because:
+
+Molecule 5339 is not valid because:
+
+Molecule 5342 is not valid because:
+
+Molecule 5343 is not valid because:
+
+Molecule 5348 is not valid because:
+
+Molecule 5350 is not valid because:
+
+Molecule 5363 is not valid because:
+
+Molecule 5366 is not valid because:
+
+Molecule 5368 is not valid because:
+
+Molecule 5370 is not valid because:
+Empty graph
+
+Molecule 5372 is not valid because:
+
+Molecule 5381 is not valid because:
+
+Molecule 5390 is not valid because:
+
+Molecule 5398 is not valid because:
+
+Molecule 5403 is not valid because:
+
+Molecule 5404 is not valid because:
+
+Molecule 5406 is not valid because:
+
+Molecule 5408 is not valid because:
+
+Molecule 5412 is not valid because:
+
+Molecule 5425 is not valid because:
+
+Molecule 5426 is not valid because:
+
+Molecule 5436 is not valid because:
+
+Molecule 5441 is not valid because:
+
+Molecule 5448 is not valid because:
+
+Molecule 5449 is not valid because:
+
+Molecule 5451 is not valid because:
+
+Molecule 5452 is not valid because:
+
+Molecule 5461 is not valid because:
+
+Molecule 5473 is not valid because:
+
+Molecule 5477 is not valid because:
+
+Molecule 5478 is not valid because:
+
+Molecule 5481 is not valid because:
+
+Molecule 5500 is not valid because:
+
+Molecule 5503 is not valid because:
+
+Molecule 5505 is not valid because:
+
+Molecule 5507 is not valid because:
+
+Molecule 5508 is not valid because:
+
+Molecule 5511 is not valid because:
+
+Molecule 5520 is not valid because:
+
+Molecule 5530 is not valid because:
+
+Molecule 5542 is not valid because:
+
+Molecule 5547 is not valid because:
+
+Molecule 5551 is not valid because:
+
+Molecule 5552 is not valid because:
+
+Molecule 5568 is not valid because:
+
+Molecule 5571 is not valid because:
+
+Molecule 5574 is not valid because:
+
+Molecule 5577 is not valid because:
+
+Molecule 5580 is not valid because:
+
+Molecule 5583 is not valid because:
+
+Molecule 5587 is not valid because:
+
+Molecule 5592 is not valid because:
+
+Molecule 5594 is not valid because:
+
+Molecule 5604 is not valid because:
+
+Molecule 5609 is not valid because:
+
+Molecule 5615 is not valid because:
+
+Molecule 5616 is not valid because:
+
+Molecule 5617 is not valid because:
+
+Molecule 5620 is not valid because:
+
+Molecule 5622 is not valid because:
+
+Molecule 5623 is not valid because:
+
+Molecule 5629 is not valid because:
+
+Molecule 5632 is not valid because:
+
+Molecule 5638 is not valid because:
+
+Molecule 5639 is not valid because:
+
+Molecule 5643 is not valid because:
+
+Molecule 5647 is not valid because:
+
+Molecule 5649 is not valid because:
+
+Molecule 5651 is not valid because:
+
+Molecule 5660 is not valid because:
+
+Molecule 5661 is not valid because:
+
+Molecule 5665 is not valid because:
+
+Molecule 5669 is not valid because:
+
+Molecule 5676 is not valid because:
+
+Molecule 5677 is not valid because:
+
+Molecule 5682 is not valid because:
+
+Molecule 5684 is not valid because:
+
+Molecule 5686 is not valid because:
+Empty graph
+
+Molecule 5687 is not valid because:
+
+Molecule 5691 is not valid because:
+
+Molecule 5703 is not valid because:
+
+Molecule 5704 is not valid because:
+
+Molecule 5708 is not valid because:
+
+Molecule 5710 is not valid because:
+
+Molecule 5717 is not valid because:
+
+Molecule 5718 is not valid because:
+
+Molecule 5720 is not valid because:
+
+Molecule 5729 is not valid because:
+
+Molecule 5731 is not valid because:
+
+Molecule 5735 is not valid because:
+
+Molecule 5737 is not valid because:
+
+Molecule 5738 is not valid because:
+
+Molecule 5739 is not valid because:
+
+Molecule 5741 is not valid because:
+
+Molecule 5744 is not valid because:
+
+Molecule 5748 is not valid because:
+
+Molecule 5753 is not valid because:
+
+Molecule 5754 is not valid because:
+
+Molecule 5757 is not valid because:
+
+Molecule 5760 is not valid because:
+
+Molecule 5762 is not valid because:
+
+Molecule 5763 is not valid because:
+
+Molecule 5764 is not valid because:
+
+Molecule 5767 is not valid because:
+
+Molecule 5778 is not valid because:
+
+Molecule 5780 is not valid because:
+
+Molecule 5782 is not valid because:
+
+Molecule 5787 is not valid because:
+
+Molecule 5793 is not valid because:
+
+Molecule 5795 is not valid because:
+
+Molecule 5799 is not valid because:
+
+Molecule 5809 is not valid because:
+
+Molecule 5810 is not valid because:
+
+Molecule 5814 is not valid because:
+
+Molecule 5818 is not valid because:
+
+Molecule 5819 is not valid because:
+
+Molecule 5824 is not valid because:
+
+Molecule 5842 is not valid because:
+
+Molecule 5846 is not valid because:
+
+Molecule 5849 is not valid because:
+
+Molecule 5857 is not valid because:
+
+Molecule 5864 is not valid because:
+
+Molecule 5865 is not valid because:
+
+Molecule 5870 is not valid because:
+
+Molecule 5874 is not valid because:
+
+Molecule 5875 is not valid because:
+
+Molecule 5881 is not valid because:
+
+Molecule 5885 is not valid because:
+
+Molecule 5886 is not valid because:
+
+Molecule 5887 is not valid because:
+
+Molecule 5890 is not valid because:
+
+Molecule 5900 is not valid because:
+
+Molecule 5901 is not valid because:
+
+Molecule 5913 is not valid because:
+
+Molecule 5926 is not valid because:
+
+Molecule 5932 is not valid because:
+
+Molecule 5936 is not valid because:
+
+Molecule 5950 is not valid because:
+
+Molecule 5955 is not valid because:
+
+Molecule 5965 is not valid because:
+
+Molecule 5968 is not valid because:
+
+Molecule 5971 is not valid because:
+
+Molecule 5981 is not valid because:
+
+Molecule 5987 is not valid because:
+
+Molecule 5989 is not valid because:
+
+Molecule 5998 is not valid because:
+
+Molecule 6000 is not valid because:
+
+Molecule 6004 is not valid because:
+
+Molecule 6005 is not valid because:
+
+Molecule 6009 is not valid because:
+
+Molecule 6020 is not valid because:
+
+Molecule 6022 is not valid because:
+
+Molecule 6023 is not valid because:
+
+Molecule 6024 is not valid because:
+
+Molecule 6027 is not valid because:
+
+Molecule 6044 is not valid because:
+
+Molecule 6072 is not valid because:
+
+Molecule 6076 is not valid because:
+
+Molecule 6077 is not valid because:
+
+Molecule 6086 is not valid because:
+
+Molecule 6092 is not valid because:
+
+Molecule 6094 is not valid because:
+
+Molecule 6099 is not valid because:
+
+Molecule 6104 is not valid because:
+
+Molecule 6107 is not valid because:
+
+Molecule 6110 is not valid because:
+
+Molecule 6112 is not valid because:
+
+Molecule 6116 is not valid because:
+
+Molecule 6117 is not valid because:
+Empty graph
+
+Molecule 6118 is not valid because:
+
+Molecule 6124 is not valid because:
+
+Molecule 6126 is not valid because:
+
+Molecule 6130 is not valid because:
+
+Molecule 6137 is not valid because:
+
+Molecule 6146 is not valid because:
+
+Molecule 6153 is not valid because:
+
+Molecule 6154 is not valid because:
+
+Molecule 6161 is not valid because:
+
+Molecule 6162 is not valid because:
+
+Molecule 6164 is not valid because:
+
+Molecule 6165 is not valid because:
+
+Molecule 6167 is not valid because:
+
+Molecule 6181 is not valid because:
+
+Molecule 6184 is not valid because:
+
+Molecule 6186 is not valid because:
+
+Molecule 6188 is not valid because:
+
+Molecule 6193 is not valid because:
+Empty graph
+
+Molecule 6199 is not valid because:
+
+Molecule 6215 is not valid because:
+
+Molecule 6222 is not valid because:
+
+Molecule 6238 is not valid because:
+
+Molecule 6239 is not valid because:
+
+Molecule 6242 is not valid because:
+
+Molecule 6251 is not valid because:
+
+Molecule 6259 is not valid because:
+
+Molecule 6268 is not valid because:
+
+Molecule 6271 is not valid because:
+
+Molecule 6274 is not valid because:
+
+Molecule 6278 is not valid because:
+
+Molecule 6280 is not valid because:
+
+Molecule 6303 is not valid because:
+
+Molecule 6310 is not valid because:
+
+Molecule 6314 is not valid because:
+
+Molecule 6315 is not valid because:
+
+Molecule 6316 is not valid because:
+
+Molecule 6322 is not valid because:
+
+Molecule 6326 is not valid because:
+
+Molecule 6334 is not valid because:
+
+Molecule 6345 is not valid because:
+
+Molecule 6346 is not valid because:
+
+Molecule 6352 is not valid because:
+
+Molecule 6353 is not valid because:
+
+Molecule 6357 is not valid because:
+
+Molecule 6358 is not valid because:
+
+Molecule 6366 is not valid because:
+
+Molecule 6377 is not valid because:
+
+Molecule 6398 is not valid because:
+
+Molecule 6401 is not valid because:
+
+Molecule 6404 is not valid because:
+
+Molecule 6407 is not valid because:
+
+Molecule 6418 is not valid because:
+
+Molecule 6425 is not valid because:
+
+Molecule 6445 is not valid because:
+
+Molecule 6449 is not valid because:
+Empty graph
+
+Molecule 6452 is not valid because:
+
+Molecule 6460 is not valid because:
+
+Molecule 6471 is not valid because:
+
+Molecule 6483 is not valid because:
+
+Molecule 6487 is not valid because:
+
+Molecule 6491 is not valid because:
+
+Molecule 6498 is not valid because:
+
+Molecule 6501 is not valid because:
+
+Molecule 6502 is not valid because:
+
+Molecule 6516 is not valid because:
+
+Molecule 6524 is not valid because:
+
+Molecule 6531 is not valid because:
+
+Molecule 6541 is not valid because:
+
+Molecule 6542 is not valid because:
+
+Molecule 6559 is not valid because:
+
+Molecule 6560 is not valid because:
+
+Molecule 6564 is not valid because:
+
+Molecule 6565 is not valid because:
+
+Molecule 6566 is not valid because:
+
+Molecule 6572 is not valid because:
+
+Molecule 6573 is not valid because:
+
+Molecule 6575 is not valid because:
+
+Molecule 6579 is not valid because:
+
+Molecule 6583 is not valid because:
+
+Molecule 6586 is not valid because:
+
+Molecule 6594 is not valid because:
+
+Molecule 6600 is not valid because:
+
+Molecule 6607 is not valid because:
+
+Molecule 6621 is not valid because:
+
+Molecule 6637 is not valid because:
+
+Molecule 6653 is not valid because:
+
+Molecule 6655 is not valid because:
+
+Molecule 6667 is not valid because:
+
+Molecule 6670 is not valid because:
+
+Molecule 6678 is not valid because:
+
+Molecule 6681 is not valid because:
+
+Molecule 6702 is not valid because:
+
+Molecule 6706 is not valid because:
+
+Molecule 6712 is not valid because:
+
+Molecule 6722 is not valid because:
+
+Molecule 6733 is not valid because:
+
+Molecule 6734 is not valid because:
+
+Molecule 6741 is not valid because:
+
+Molecule 6745 is not valid because:
+
+Molecule 6746 is not valid because:
+
+Molecule 6758 is not valid because:
+
+Molecule 6775 is not valid because:
+
+Molecule 6783 is not valid because:
+
+Molecule 6786 is not valid because:
+
+Molecule 6802 is not valid because:
+
+Molecule 6804 is not valid because:
+
+Molecule 6822 is not valid because:
+
+Molecule 6823 is not valid because:
+
+Molecule 6826 is not valid because:
+
+Molecule 6834 is not valid because:
+
+Molecule 6835 is not valid because:
+
+Molecule 6838 is not valid because:
+
+Molecule 6846 is not valid because:
+
+Molecule 6850 is not valid because:
+
+Molecule 6851 is not valid because:
+
+Molecule 6854 is not valid because:
+
+Molecule 6858 is not valid because:
+
+Molecule 6872 is not valid because:
+
+Molecule 6873 is not valid because:
+
+Molecule 6876 is not valid because:
+
+Molecule 6878 is not valid because:
+
+Molecule 6880 is not valid because:
+
+Molecule 6882 is not valid because:
+
+Molecule 6890 is not valid because:
+
+Molecule 6892 is not valid because:
+
+Molecule 6895 is not valid because:
+
+Molecule 6901 is not valid because:
+
+Molecule 6902 is not valid because:
+
+Molecule 6906 is not valid because:
+
+Molecule 6913 is not valid because:
+
+Molecule 6916 is not valid because:
+
+Molecule 6917 is not valid because:
+
+Molecule 6919 is not valid because:
+
+Molecule 6926 is not valid because:
+
+Molecule 6927 is not valid because:
+
+Molecule 6930 is not valid because:
+
+Molecule 6932 is not valid because:
+
+Molecule 6935 is not valid because:
+
+Molecule 6942 is not valid because:
+
+Molecule 6952 is not valid because:
+
+Molecule 6954 is not valid because:
+
+Molecule 6956 is not valid because:
+
+Molecule 6957 is not valid because:
+
+Molecule 6959 is not valid because:
+
+Molecule 6966 is not valid because:
+
+Molecule 6968 is not valid because:
+
+Molecule 6970 is not valid because:
+
+Molecule 6972 is not valid because:
+
+Molecule 6975 is not valid because:
+
+Molecule 6976 is not valid because:
+
+Molecule 6978 is not valid because:
+
+Molecule 6992 is not valid because:
+
+Molecule 7006 is not valid because:
+
+Molecule 7008 is not valid because:
+
+Molecule 7012 is not valid because:
+
+Molecule 7019 is not valid because:
+
+Molecule 7021 is not valid because:
+
+Molecule 7027 is not valid because:
+
+Molecule 7036 is not valid because:
+
+Molecule 7043 is not valid because:
+
+Molecule 7046 is not valid because:
+
+Molecule 7049 is not valid because:
+
+Molecule 7055 is not valid because:
+
+Molecule 7063 is not valid because:
+
+Molecule 7065 is not valid because:
+Empty graph
+
+Molecule 7068 is not valid because:
+
+Molecule 7071 is not valid because:
+
+Molecule 7074 is not valid because:
+
+Molecule 7077 is not valid because:
+
+Molecule 7079 is not valid because:
+
+Molecule 7080 is not valid because:
+
+Molecule 7089 is not valid because:
+Empty graph
+
+Molecule 7091 is not valid because:
+
+Molecule 7092 is not valid because:
+
+Molecule 7100 is not valid because:
+
+Molecule 7105 is not valid because:
+
+Molecule 7106 is not valid because:
+
+Molecule 7111 is not valid because:
+
+Molecule 7125 is not valid because:
+
+Molecule 7127 is not valid because:
+
+Molecule 7131 is not valid because:
+
+Molecule 7134 is not valid because:
+
+Molecule 7142 is not valid because:
+
+Molecule 7145 is not valid because:
+
+Molecule 7150 is not valid because:
+
+Molecule 7159 is not valid because:
+
+Molecule 7168 is not valid because:
+
+Molecule 7170 is not valid because:
+
+Molecule 7173 is not valid because:
+
+Molecule 7177 is not valid because:
+
+Molecule 7188 is not valid because:
+
+Molecule 7191 is not valid because:
+
+Molecule 7194 is not valid because:
+
+Molecule 7198 is not valid because:
+
+Molecule 7205 is not valid because:
+
+Molecule 7212 is not valid because:
+
+Molecule 7213 is not valid because:
+
+Molecule 7215 is not valid because:
+
+Molecule 7218 is not valid because:
+
+Molecule 7227 is not valid because:
+
+Molecule 7237 is not valid because:
+
+Molecule 7250 is not valid because:
+
+Molecule 7253 is not valid because:
+
+Molecule 7260 is not valid because:
+
+Molecule 7262 is not valid because:
+
+Molecule 7267 is not valid because:
+
+Molecule 7270 is not valid because:
+
+Molecule 7279 is not valid because:
+
+Molecule 7293 is not valid because:
+
+Molecule 7294 is not valid because:
+
+Molecule 7302 is not valid because:
+
+Molecule 7304 is not valid because:
+
+Molecule 7313 is not valid because:
+
+Molecule 7318 is not valid because:
+
+Molecule 7323 is not valid because:
+
+Molecule 7330 is not valid because:
+
+Molecule 7343 is not valid because:
+
+Molecule 7348 is not valid because:
+
+Molecule 7353 is not valid because:
+
+Molecule 7359 is not valid because:
+
+Molecule 7364 is not valid because:
+
+Molecule 7373 is not valid because:
+
+Molecule 7376 is not valid because:
+
+Molecule 7378 is not valid because:
+
+Molecule 7385 is not valid because:
+
+Molecule 7390 is not valid because:
+
+Molecule 7396 is not valid because:
+
+Molecule 7401 is not valid because:
+
+Molecule 7402 is not valid because:
+
+Molecule 7403 is not valid because:
+
+Molecule 7404 is not valid because:
+
+Molecule 7411 is not valid because:
+
+Molecule 7415 is not valid because:
+
+Molecule 7423 is not valid because:
+
+Molecule 7425 is not valid because:
+
+Molecule 7428 is not valid because:
+
+Molecule 7433 is not valid because:
+
+Molecule 7438 is not valid because:
+
+Molecule 7441 is not valid because:
+
+Molecule 7445 is not valid because:
+
+Molecule 7447 is not valid because:
+
+Molecule 7454 is not valid because:
+
+Molecule 7458 is not valid because:
+
+Molecule 7459 is not valid because:
+
+Molecule 7460 is not valid because:
+
+Molecule 7461 is not valid because:
+
+Molecule 7466 is not valid because:
+
+Molecule 7474 is not valid because:
+
+Molecule 7475 is not valid because:
+
+Molecule 7484 is not valid because:
+
+Molecule 7486 is not valid because:
+
+Molecule 7492 is not valid because:
+
+Molecule 7493 is not valid because:
+
+Molecule 7499 is not valid because:
+
+Molecule 7500 is not valid because:
+
+Molecule 7501 is not valid because:
+
+Molecule 7508 is not valid because:
+
+Molecule 7515 is not valid because:
+
+Molecule 7541 is not valid because:
+
+Molecule 7545 is not valid because:
+
+Molecule 7547 is not valid because:
+
+Molecule 7550 is not valid because:
+
+Molecule 7555 is not valid because:
+
+Molecule 7563 is not valid because:
+
+Molecule 7579 is not valid because:
+
+Molecule 7584 is not valid because:
+
+Molecule 7593 is not valid because:
+
+Molecule 7596 is not valid because:
+
+Molecule 7600 is not valid because:
+
+Molecule 7608 is not valid because:
+
+Molecule 7616 is not valid because:
+
+Molecule 7619 is not valid because:
+
+Molecule 7628 is not valid because:
+
+Molecule 7629 is not valid because:
+
+Molecule 7642 is not valid because:
+
+Molecule 7644 is not valid because:
+
+Molecule 7647 is not valid because:
+
+Molecule 7653 is not valid because:
+
+Molecule 7656 is not valid because:
+
+Molecule 7661 is not valid because:
+
+Molecule 7663 is not valid because:
+
+Molecule 7670 is not valid because:
+
+Molecule 7672 is not valid because:
+
+Molecule 7680 is not valid because:
+
+Molecule 7686 is not valid because:
+
+Molecule 7690 is not valid because:
+
+Molecule 7691 is not valid because:
+
+Molecule 7693 is not valid because:
+
+Molecule 7696 is not valid because:
+
+Molecule 7700 is not valid because:
+
+Molecule 7702 is not valid because:
+
+Molecule 7716 is not valid because:
+
+Molecule 7728 is not valid because:
+
+Molecule 7729 is not valid because:
+
+Molecule 7734 is not valid because:
+
+Molecule 7735 is not valid because:
+
+Molecule 7736 is not valid because:
+
+Molecule 7737 is not valid because:
+
+Molecule 7743 is not valid because:
+
+Molecule 7751 is not valid because:
+
+Molecule 7754 is not valid because:
+
+Molecule 7762 is not valid because:
+
+Molecule 7764 is not valid because:
+
+Molecule 7777 is not valid because:
+
+Molecule 7788 is not valid because:
+
+Molecule 7790 is not valid because:
+
+Molecule 7792 is not valid because:
+
+Molecule 7796 is not valid because:
+
+Molecule 7800 is not valid because:
+
+Molecule 7803 is not valid because:
+
+Molecule 7809 is not valid because:
+
+Molecule 7816 is not valid because:
+
+Molecule 7818 is not valid because:
+
+Molecule 7819 is not valid because:
+
+Molecule 7824 is not valid because:
+
+Molecule 7825 is not valid because:
+
+Molecule 7831 is not valid because:
+
+Molecule 7836 is not valid because:
+
+Molecule 7843 is not valid because:
+
+Molecule 7844 is not valid because:
+
+Molecule 7859 is not valid because:
+
+Molecule 7862 is not valid because:
+
+Molecule 7867 is not valid because:
+
+Molecule 7870 is not valid because:
+
+Molecule 7873 is not valid because:
+
+Molecule 7876 is not valid because:
+
+Molecule 7880 is not valid because:
+
+Molecule 7881 is not valid because:
+
+Molecule 7886 is not valid because:
+
+Molecule 7890 is not valid because:
+
+Molecule 7891 is not valid because:
+
+Molecule 7892 is not valid because:
+
+Molecule 7900 is not valid because:
+
+Molecule 7902 is not valid because:
+
+Molecule 7908 is not valid because:
+
+Molecule 7919 is not valid because:
+
+Molecule 7921 is not valid because:
+
+Molecule 7924 is not valid because:
+
+Molecule 7927 is not valid because:
+
+Molecule 7940 is not valid because:
+
+Molecule 7943 is not valid because:
+
+Molecule 7968 is not valid because:
+
+Molecule 7973 is not valid because:
+
+Molecule 7983 is not valid because:
+
+Molecule 7985 is not valid because:
+
+Molecule 7988 is not valid because:
+
+Molecule 7998 is not valid because:
+
+Molecule 8004 is not valid because:
+
+Molecule 8013 is not valid because:
+
+Molecule 8018 is not valid because:
+
+Molecule 8022 is not valid because:
+
+Molecule 8026 is not valid because:
+
+Molecule 8030 is not valid because:
+
+Molecule 8039 is not valid because:
+
+Molecule 8041 is not valid because:
+
+Molecule 8045 is not valid because:
+
+Molecule 8053 is not valid because:
+
+Molecule 8057 is not valid because:
+
+Molecule 8063 is not valid because:
+
+Molecule 8069 is not valid because:
+
+Molecule 8073 is not valid because:
+
+Molecule 8078 is not valid because:
+
+Molecule 8079 is not valid because:
+
+Molecule 8083 is not valid because:
+
+Molecule 8088 is not valid because:
+
+Molecule 8090 is not valid because:
+
+Molecule 8096 is not valid because:
+
+Molecule 8098 is not valid because:
+
+Molecule 8099 is not valid because:
+Empty graph
+
+Molecule 8105 is not valid because:
+
+Molecule 8108 is not valid because:
+
+Molecule 8111 is not valid because:
+
+Molecule 8118 is not valid because:
+
+Molecule 8120 is not valid because:
+
+Molecule 8133 is not valid because:
+
+Molecule 8134 is not valid because:
+
+Molecule 8140 is not valid because:
+
+Molecule 8144 is not valid because:
+
+Molecule 8157 is not valid because:
+
+Molecule 8166 is not valid because:
+
+Molecule 8170 is not valid because:
+
+Molecule 8171 is not valid because:
+
+Molecule 8177 is not valid because:
+
+Molecule 8186 is not valid because:
+
+Molecule 8190 is not valid because:
+
+Molecule 8197 is not valid because:
+
+Molecule 8199 is not valid because:
+
+Molecule 8201 is not valid because:
+
+Molecule 8207 is not valid because:
+
+Molecule 8209 is not valid because:
+
+Molecule 8221 is not valid because:
+
+Molecule 8223 is not valid because:
+
+Molecule 8233 is not valid because:
+
+Molecule 8242 is not valid because:
+
+Molecule 8244 is not valid because:
+
+Molecule 8247 is not valid because:
+
+Molecule 8251 is not valid because:
+
+Molecule 8256 is not valid because:
+
+Molecule 8263 is not valid because:
+
+Molecule 8265 is not valid because:
+
+Molecule 8269 is not valid because:
+
+Molecule 8271 is not valid because:
+
+Molecule 8275 is not valid because:
+
+Molecule 8282 is not valid because:
+
+Molecule 8294 is not valid because:
+
+Molecule 8298 is not valid because:
+
+Molecule 8301 is not valid because:
+
+Molecule 8309 is not valid because:
+
+Molecule 8310 is not valid because:
+
+Molecule 8316 is not valid because:
+
+Molecule 8319 is not valid because:
+
+Molecule 8323 is not valid because:
+
+Molecule 8326 is not valid because:
+
+Molecule 8334 is not valid because:
+
+Molecule 8335 is not valid because:
+
+Molecule 8341 is not valid because:
+
+Molecule 8344 is not valid because:
+
+Molecule 8346 is not valid because:
+
+Molecule 8354 is not valid because:
+
+Molecule 8368 is not valid because:
+
+Molecule 8379 is not valid because:
+
+Molecule 8382 is not valid because:
+
+Molecule 8387 is not valid because:
+
+Molecule 8392 is not valid because:
+
+Molecule 8393 is not valid because:
+
+Molecule 8395 is not valid because:
+
+Molecule 8396 is not valid because:
+
+Molecule 8406 is not valid because:
+
+Molecule 8411 is not valid because:
+
+Molecule 8412 is not valid because:
+
+Molecule 8416 is not valid because:
+
+Molecule 8417 is not valid because:
+
+Molecule 8425 is not valid because:
+
+Molecule 8428 is not valid because:
+
+Molecule 8432 is not valid because:
+
+Molecule 8434 is not valid because:
+
+Molecule 8435 is not valid because:
+
+Molecule 8438 is not valid because:
+
+Molecule 8439 is not valid because:
+
+Molecule 8444 is not valid because:
+
+Molecule 8445 is not valid because:
+
+Molecule 8446 is not valid because:
+
+Molecule 8455 is not valid because:
+
+Molecule 8456 is not valid because:
+
+Molecule 8457 is not valid because:
+
+Molecule 8469 is not valid because:
+
+Molecule 8470 is not valid because:
+
+Molecule 8473 is not valid because:
+
+Molecule 8474 is not valid because:
+
+Molecule 8475 is not valid because:
+
+Molecule 8485 is not valid because:
+Empty graph
+
+Molecule 8488 is not valid because:
+
+Molecule 8499 is not valid because:
+
+Molecule 8503 is not valid because:
+
+Molecule 8506 is not valid because:
+
+Molecule 8508 is not valid because:
+Empty graph
+
+Molecule 8524 is not valid because:
+
+Molecule 8531 is not valid because:
+
+Molecule 8532 is not valid because:
+
+Molecule 8534 is not valid because:
+
+Molecule 8536 is not valid because:
+
+Molecule 8540 is not valid because:
+
+Molecule 8545 is not valid because:
+
+Molecule 8554 is not valid because:
+
+Molecule 8558 is not valid because:
+
+Molecule 8560 is not valid because:
+
+Molecule 8561 is not valid because:
+
+Molecule 8563 is not valid because:
+
+Molecule 8565 is not valid because:
+
+Molecule 8568 is not valid because:
+
+Molecule 8575 is not valid because:
+
+Molecule 8588 is not valid because:
+
+Molecule 8600 is not valid because:
+
+Molecule 8607 is not valid because:
+
+Molecule 8617 is not valid because:
+
+Molecule 8618 is not valid because:
+
+Molecule 8623 is not valid because:
+
+Molecule 8631 is not valid because:
+
+Molecule 8635 is not valid because:
+
+Molecule 8637 is not valid because:
+
+Molecule 8648 is not valid because:
+
+Molecule 8650 is not valid because:
+
+Molecule 8651 is not valid because:
+
+Molecule 8656 is not valid because:
+
+Molecule 8665 is not valid because:
+
+Molecule 8669 is not valid because:
+
+Molecule 8670 is not valid because:
+
+Molecule 8673 is not valid because:
+
+Molecule 8675 is not valid because:
+
+Molecule 8678 is not valid because:
+
+Molecule 8682 is not valid because:
+
+Molecule 8690 is not valid because:
+
+Molecule 8691 is not valid because:
+
+Molecule 8693 is not valid because:
+
+Molecule 8698 is not valid because:
+
+Molecule 8704 is not valid because:
+
+Molecule 8708 is not valid because:
+
+Molecule 8720 is not valid because:
+
+Molecule 8755 is not valid because:
+
+Molecule 8756 is not valid because:
+
+Molecule 8757 is not valid because:
+
+Molecule 8766 is not valid because:
+
+Molecule 8769 is not valid because:
+
+Molecule 8771 is not valid because:
+
+Molecule 8775 is not valid because:
+
+Molecule 8777 is not valid because:
+
+Molecule 8783 is not valid because:
+
+Molecule 8789 is not valid because:
+
+Molecule 8802 is not valid because:
+
+Molecule 8806 is not valid because:
+
+Molecule 8807 is not valid because:
+
+Molecule 8809 is not valid because:
+
+Molecule 8812 is not valid because:
+
+Molecule 8821 is not valid because:
+
+Molecule 8825 is not valid because:
+
+Molecule 8836 is not valid because:
+
+Molecule 8841 is not valid because:
+
+Molecule 8850 is not valid because:
+
+Molecule 8865 is not valid because:
+
+Molecule 8870 is not valid because:
+
+Molecule 8873 is not valid because:
+
+Molecule 8886 is not valid because:
+
+Molecule 8890 is not valid because:
+
+Molecule 8893 is not valid because:
+
+Molecule 8896 is not valid because:
+
+Molecule 8899 is not valid because:
+
+Molecule 8900 is not valid because:
+
+Molecule 8902 is not valid because:
+
+Molecule 8905 is not valid because:
+
+Molecule 8926 is not valid because:
+
+Molecule 8929 is not valid because:
+
+Molecule 8930 is not valid because:
+
+Molecule 8936 is not valid because:
+
+Molecule 8943 is not valid because:
+
+Molecule 8951 is not valid because:
+
+Molecule 8952 is not valid because:
+
+Molecule 8953 is not valid because:
+
+Molecule 8962 is not valid because:
+
+Molecule 8966 is not valid because:
+
+Molecule 8969 is not valid because:
+
+Molecule 8972 is not valid because:
+
+Molecule 8974 is not valid because:
+
+Molecule 8978 is not valid because:
+
+Molecule 8980 is not valid because:
+
+Molecule 8984 is not valid because:
+
+Molecule 8988 is not valid because:
+
+Molecule 8989 is not valid because:
+
+Molecule 8990 is not valid because:
+
+Molecule 8991 is not valid because:
+
+Molecule 9005 is not valid because:
+
+Molecule 9012 is not valid because:
+
+Molecule 9015 is not valid because:
+
+Molecule 9028 is not valid because:
+
+Molecule 9033 is not valid because:
+
+Molecule 9034 is not valid because:
+
+Molecule 9041 is not valid because:
+
+Molecule 9043 is not valid because:
+
+Molecule 9051 is not valid because:
+
+Molecule 9055 is not valid because:
+
+Molecule 9060 is not valid because:
+
+Molecule 9063 is not valid because:
+
+Molecule 9065 is not valid because:
+
+Molecule 9067 is not valid because:
+
+Molecule 9071 is not valid because:
+
+Molecule 9081 is not valid because:
+
+Molecule 9091 is not valid because:
+
+Molecule 9092 is not valid because:
+
+Molecule 9098 is not valid because:
+
+Molecule 9102 is not valid because:
+
+Molecule 9103 is not valid because:
+
+Molecule 9105 is not valid because:
+
+Molecule 9111 is not valid because:
+
+Molecule 9124 is not valid because:
+
+Molecule 9130 is not valid because:
+
+Molecule 9131 is not valid because:
+
+Molecule 9132 is not valid because:
+
+Molecule 9137 is not valid because:
+
+Molecule 9145 is not valid because:
+
+Molecule 9153 is not valid because:
+
+Molecule 9156 is not valid because:
+
+Molecule 9162 is not valid because:
+
+Molecule 9165 is not valid because:
+
+Molecule 9167 is not valid because:
+
+Molecule 9171 is not valid because:
+
+Molecule 9182 is not valid because:
+
+Molecule 9184 is not valid because:
+
+Molecule 9199 is not valid because:
+
+Molecule 9210 is not valid because:
+
+Molecule 9212 is not valid because:
+
+Molecule 9216 is not valid because:
+
+Molecule 9217 is not valid because:
+
+Molecule 9219 is not valid because:
+
+Molecule 9220 is not valid because:
+
+Molecule 9223 is not valid because:
+
+Molecule 9234 is not valid because:
+
+Molecule 9244 is not valid because:
+
+Molecule 9245 is not valid because:
+
+Molecule 9250 is not valid because:
+
+Molecule 9251 is not valid because:
+
+Molecule 9255 is not valid because:
+
+Molecule 9261 is not valid because:
+
+Molecule 9263 is not valid because:
+
+Molecule 9264 is not valid because:
+
+Molecule 9275 is not valid because:
+
+Molecule 9278 is not valid because:
+
+Molecule 9281 is not valid because:
+
+Molecule 9283 is not valid because:
+
+Molecule 9294 is not valid because:
+
+Molecule 9296 is not valid because:
+
+Molecule 9315 is not valid because:
+
+Molecule 9316 is not valid because:
+
+Molecule 9317 is not valid because:
+
+Molecule 9321 is not valid because:
+
+Molecule 9328 is not valid because:
+
+Molecule 9329 is not valid because:
+
+Molecule 9331 is not valid because:
+
+Molecule 9332 is not valid because:
+
+Molecule 9336 is not valid because:
+
+Molecule 9346 is not valid because:
+
+Molecule 9355 is not valid because:
+
+Molecule 9356 is not valid because:
+
+Molecule 9358 is not valid because:
+
+Molecule 9361 is not valid because:
+
+Molecule 9371 is not valid because:
+
+Molecule 9378 is not valid because:
+
+Molecule 9379 is not valid because:
+
+Molecule 9382 is not valid because:
+
+Molecule 9389 is not valid because:
+
+Molecule 9390 is not valid because:
+
+Molecule 9395 is not valid because:
+
+Molecule 9401 is not valid because:
+
+Molecule 9405 is not valid because:
+
+Molecule 9407 is not valid because:
+
+Molecule 9409 is not valid because:
+
+Molecule 9413 is not valid because:
+
+Molecule 9416 is not valid because:
+
+Molecule 9418 is not valid because:
+
+Molecule 9429 is not valid because:
+
+Molecule 9434 is not valid because:
+
+Molecule 9443 is not valid because:
+
+Molecule 9445 is not valid because:
+
+Molecule 9458 is not valid because:
+
+Molecule 9465 is not valid because:
+
+Molecule 9480 is not valid because:
+
+Molecule 9482 is not valid because:
+
+Molecule 9487 is not valid because:
+
+Molecule 9495 is not valid because:
+
+Molecule 9497 is not valid because:
+
+Molecule 9499 is not valid because:
+
+Molecule 9500 is not valid because:
+
+Molecule 9506 is not valid because:
+
+Molecule 9513 is not valid because:
+
+Molecule 9518 is not valid because:
+
+Molecule 9520 is not valid because:
+
+Molecule 9522 is not valid because:
+
+Molecule 9523 is not valid because:
+
+Molecule 9524 is not valid because:
+
+Molecule 9527 is not valid because:
+
+Molecule 9531 is not valid because:
+
+Molecule 9533 is not valid because:
+
+Molecule 9547 is not valid because:
+
+Molecule 9548 is not valid because:
+
+Molecule 9551 is not valid because:
+
+Molecule 9554 is not valid because:
+
+Molecule 9558 is not valid because:
+
+Molecule 9563 is not valid because:
+
+Molecule 9569 is not valid because:
+
+Molecule 9575 is not valid because:
+
+Molecule 9576 is not valid because:
+
+Molecule 9579 is not valid because:
+
+Molecule 9580 is not valid because:
+
+Molecule 9584 is not valid because:
+
+Molecule 9586 is not valid because:
+
+Molecule 9588 is not valid because:
+
+Molecule 9592 is not valid because:
+
+Molecule 9603 is not valid because:
+
+Molecule 9614 is not valid because:
+
+Molecule 9624 is not valid because:
+
+Molecule 9628 is not valid because:
+
+Molecule 9632 is not valid because:
+
+Molecule 9633 is not valid because:
+
+Molecule 9635 is not valid because:
+
+Molecule 9645 is not valid because:
+
+Molecule 9653 is not valid because:
+
+Molecule 9673 is not valid because:
+
+Molecule 9678 is not valid because:
+
+Molecule 9679 is not valid because:
+
+Molecule 9680 is not valid because:
+
+Molecule 9695 is not valid because:
+
+Molecule 9697 is not valid because:
+
+Molecule 9700 is not valid because:
+
+Molecule 9702 is not valid because:
+
+Molecule 9704 is not valid because:
+
+Molecule 9710 is not valid because:
+
+Molecule 9712 is not valid because:
+
+Molecule 9716 is not valid because:
+
+Molecule 9718 is not valid because:
+
+Molecule 9723 is not valid because:
+
+Molecule 9725 is not valid because:
+
+Molecule 9729 is not valid because:
+
+Molecule 9730 is not valid because:
+
+Molecule 9733 is not valid because:
+
+Molecule 9734 is not valid because:
+
+Molecule 9742 is not valid because:
+
+Molecule 9751 is not valid because:
+
+Molecule 9752 is not valid because:
+
+Molecule 9757 is not valid because:
+
+Molecule 9764 is not valid because:
+
+Molecule 9770 is not valid because:
+
+Molecule 9774 is not valid because:
+
+Molecule 9783 is not valid because:
+
+Molecule 9784 is not valid because:
+
+Molecule 9789 is not valid because:
+
+Molecule 9794 is not valid because:
+
+Molecule 9795 is not valid because:
+
+Molecule 9796 is not valid because:
+
+Molecule 9803 is not valid because:
+
+Molecule 9810 is not valid because:
+
+Molecule 9811 is not valid because:
+
+Molecule 9816 is not valid because:
+
+Molecule 9819 is not valid because:
+
+Molecule 9830 is not valid because:
+
+Molecule 9831 is not valid because:
+
+Molecule 9833 is not valid because:
+
+Molecule 9843 is not valid because:
+
+Molecule 9845 is not valid because:
+
+Molecule 9850 is not valid because:
+
+Molecule 9854 is not valid because:
+
+Molecule 9861 is not valid because:
+
+Molecule 9867 is not valid because:
+
+Molecule 9869 is not valid because:
+
+Molecule 9871 is not valid because:
+
+Molecule 9876 is not valid because:
+
+Molecule 9883 is not valid because:
+
+Molecule 9884 is not valid because:
+
+Molecule 9886 is not valid because:
+
+Molecule 9887 is not valid because:
+
+Molecule 9889 is not valid because:
+
+Molecule 9893 is not valid because:
+
+Molecule 9895 is not valid because:
+
+Molecule 9898 is not valid because:
+
+Molecule 9903 is not valid because:
+
+Molecule 9908 is not valid because:
+
+Molecule 9912 is not valid because:
+
+Molecule 9913 is not valid because:
+
+Molecule 9919 is not valid because:
+
+Molecule 9935 is not valid because:
+
+Molecule 9939 is not valid because:
+
+Molecule 9941 is not valid because:
+
+Molecule 9951 is not valid because:
+
+Molecule 9953 is not valid because:
+
+Molecule 9961 is not valid because:
+
+Molecule 9962 is not valid because:
+
+Molecule 9965 is not valid because:
+
+Molecule 9974 is not valid because:
+
+Molecule 9975 is not valid because:
+
+Molecule 9976 is not valid because:
+
+Molecule 9979 is not valid because:
+
+Molecule 9980 is not valid because:
+
+Molecule 9981 is not valid because:
+
+Molecule 9992 is not valid because:
+

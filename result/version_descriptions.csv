@@ -1,0 +1,8 @@
+Version,Description
+20.0,Base Model
+20.1,NO Fingerprint Loss
+20.2,Size Fingerprint 2048
+20.3,Fingerprint 128 RDkit
+20.4,Approx. Loss
+20.5,Latent Space = 20
+20.6,Latent Space = 120

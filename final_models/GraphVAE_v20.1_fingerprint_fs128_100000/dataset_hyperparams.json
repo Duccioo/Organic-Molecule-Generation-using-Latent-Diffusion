@@ -1,0 +1,20 @@
+[
+    {
+        "learning_rate": 0.001,
+        "epochs": 30,
+        "num_examples": 100000,
+        "batch_size": 32,
+        "training_percentage": 0.7,
+        "test_percentage": 0.0,
+        "val_percentage": 0.3,
+        "number_val_examples": 30016,
+        "number_train_examples": 70016,
+        "loss_type": "fingerprint",
+        "fingerprint_model_name": "nn_fingerprint_qm9_fs128_v2",
+        "recon_w": 0.0,
+        "kl_w": 1.5,
+        "edge_w": 1,
+        "node_w": 1.0,
+        "adj_w": 0.1
+    }
+]

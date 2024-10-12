@@ -1,0 +1,9 @@
+[
+    {
+        "num_nodes_features": 17,
+        "num_edges_features": 4,
+        "max_num_nodes": 9,
+        "max_num_edges": 36,
+        "latent_dimension": 20
+    }
+]

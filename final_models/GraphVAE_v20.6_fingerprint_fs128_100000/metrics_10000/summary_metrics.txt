@@ -1,0 +1,18 @@
+Evaluation of metrics over generation run nMolecules Generated : 10000
+Valid Molecules : 9009
+Unique Molecules : 414
+Novel Molecules : 343
+Valid Fraction : 0.9009
+Unique Fraction : 0.04595404595404595
+Novel Fraction : 0.8285024154589372
+Valid Over Total : 0.9009
+Unique Over Total : 0.0414
+Novel Over Total : 0.0343
+Average QED (stdev): 0.49796790916345024 (0.041973407815318144)
+Average logP (stdev) : 2.9698012398712423 (0.6395509476306988)
+Average Mol.Wt. (stdev) : 112.42029870129869 (17.592355841446608)
+Average Ring C. (stdev) : 0.17071817071817072 (0.40221324829850197)
+Frenchet Dist. QM9: 0.07940616030169176
+Frenchet Dist. LogP: 0.34328616448642835
+Frenchet Dist. molecular weights: 0.22242823530879702
+Frenchet Dist. Ring: 0.4145525304775891

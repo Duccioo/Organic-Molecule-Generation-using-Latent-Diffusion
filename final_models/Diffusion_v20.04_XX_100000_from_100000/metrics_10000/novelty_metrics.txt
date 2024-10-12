@@ -1,0 +1,3 @@
+Generated graph 83 is isomorphic to training graph 0
+Generated graph 3894 is isomorphic to training graph 1
+Generated graph 2021 is isomorphic to training graph 2

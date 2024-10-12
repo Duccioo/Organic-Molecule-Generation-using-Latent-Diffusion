@@ -1,0 +1,4 @@
+Generated graph 6282 is isomorphic to training graph 0
+Generated graph 5728 is isomorphic to training graph 1
+Generated graph 5122 is isomorphic to training graph 2
+Generated graph 9162 is isomorphic to training graph 4
